@@ -1,0 +1,10 @@
+[package]
+name = "premultiply"
+version = "0.1.0"
+authors = ["Jeff Muizelaar <jmuizelaar@mozilla.com>"]
+license = "MPL-2.0"
+description = "code for premultiply or unpremultiply image data"
+repository = "https://github.com/jrmuizel/premultiply-rs"
+categories = ["rendering"]
+
+[dependencies]
